@@ -1,9 +1,5 @@
 
-News Website
-
-Overview
-
-This repository contains the source code for our news website, built using  HTML, CSS, JavaScript, React, Node.js
+Upd8ed News Website, built using  HTML, CSS, JavaScript, React, Node.js
 
 Features
 
